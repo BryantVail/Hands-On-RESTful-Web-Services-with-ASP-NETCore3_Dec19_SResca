@@ -1,0 +1,9 @@
+C:\Users\bvail\Documents\GitHub\Hands-On-RESTful-Web-Services-with-ASP-NETCore3_Dec19_SResca\HelloWorld\bin\Debug\netstandard2.0\HelloWorld.deps.json
+C:\Users\bvail\Documents\GitHub\Hands-On-RESTful-Web-Services-with-ASP-NETCore3_Dec19_SResca\HelloWorld\bin\Debug\netstandard2.0\HelloWorld.dll
+C:\Users\bvail\Documents\GitHub\Hands-On-RESTful-Web-Services-with-ASP-NETCore3_Dec19_SResca\HelloWorld\bin\Debug\netstandard2.0\HelloWorld.pdb
+C:\Users\bvail\Documents\GitHub\Hands-On-RESTful-Web-Services-with-ASP-NETCore3_Dec19_SResca\HelloWorld\obj\Debug\netstandard2.0\HelloWorld.csprojAssemblyReference.cache
+C:\Users\bvail\Documents\GitHub\Hands-On-RESTful-Web-Services-with-ASP-NETCore3_Dec19_SResca\HelloWorld\obj\Debug\netstandard2.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\bvail\Documents\GitHub\Hands-On-RESTful-Web-Services-with-ASP-NETCore3_Dec19_SResca\HelloWorld\obj\Debug\netstandard2.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\bvail\Documents\GitHub\Hands-On-RESTful-Web-Services-with-ASP-NETCore3_Dec19_SResca\HelloWorld\obj\Debug\netstandard2.0\HelloWorld.AssemblyInfo.cs
+C:\Users\bvail\Documents\GitHub\Hands-On-RESTful-Web-Services-with-ASP-NETCore3_Dec19_SResca\HelloWorld\obj\Debug\netstandard2.0\HelloWorld.dll
+C:\Users\bvail\Documents\GitHub\Hands-On-RESTful-Web-Services-with-ASP-NETCore3_Dec19_SResca\HelloWorld\obj\Debug\netstandard2.0\HelloWorld.pdb

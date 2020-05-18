@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\example-scripts"
+    "\\example-scripts",
+    "\\HelloWorld",
+    "\\HelloWorld\\bin",
+    "\\HelloWorld\\obj"
   ],
-  "SelectedNode": "\\example-scripts\\fetch.js",
+  "SelectedNode": "\\HelloWorld\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
