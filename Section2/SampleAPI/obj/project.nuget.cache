@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "XHXPouBdXf2a52L8CV5Qkh3ou5A60WYFhZCkr0cNBAqCY8/lg/SqKL2a9lGumfpTAmOsPaCpN332U0NuLC+uwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bvail\\Documents\\GitHub\\Hands-On-RESTful-Web-Services-with-ASP-NETCore3_Dec19_SResca\\Section2\\SampleAPI\\SampleAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bvail\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.5\\microsoft.aspnetcore.jsonpatch.3.1.5.nupkg.sha512",
+    "C:\\Users\\bvail\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.5\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.5.nupkg.sha512",
+    "C:\\Users\\bvail\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\bvail\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\bvail\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

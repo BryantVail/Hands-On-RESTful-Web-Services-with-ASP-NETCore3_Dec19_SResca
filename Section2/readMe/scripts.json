@@ -1,0 +1,26 @@
+{
+  "scripts": [
+    {
+      "name": "http POST request",
+      "script": "curl -X POST https://localhost:5001/api/order -H 'content-type: application/json' -d '' -k",
+      "description": ""
+    },
+    {
+      "name": "Http Get Request without ID",
+      "script": "curl -X GET https://localhost:5001/api/order -H 'content-type: application/json' -k",
+      "description": "get without ID"
+    },
+    {
+      "name": "get with ID",
+      "script": "curl -X GET https://localhost:5001/api/get/a54f58bc-216d-4a40-8040-bafaec68f2de -H 'content-type: application/json -i -k",
+      "description": "",
+      "response": "HTTP/1.1 404 Not Found \n Date: Wed, 17 Jun 2020 16:33:14 GMT \n Server: Kestrel \n Content-Length: 0 \n"
+    },
+    {
+      "name": "post with body?",
+      "script": "curl -X POST https://localhost:5001/api/order/ -H 'content-type: application/json' -d '{\"ItemsIds\": [\"1\", \"4\"]}' -i -k",
+      "description": "",
+      "response": ""
+    }
+  ]
+}

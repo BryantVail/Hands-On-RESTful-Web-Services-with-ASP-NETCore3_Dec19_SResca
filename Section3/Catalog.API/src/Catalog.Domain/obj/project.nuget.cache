@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vf2kJMuMihDqK6AOAylDKv2alP5/fd78lZVMC9bFIEYgIUk3acNy4hvQ/WoBNNIuVZN55GrJAZQxctbJ6fHZ+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bvail\\Documents\\GitHub\\Hands-On-RESTful-Web-Services-with-ASP-NETCore3_Dec19_SResca\\Section3\\Catalog.API\\src\\Catalog.Domain\\Catalog.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bvail\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
+    "C:\\Users\\bvail\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\bvail\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

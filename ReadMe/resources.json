@@ -1,0 +1,21 @@
+{
+  "referencedResources": [
+    {
+      "subjectsReferenced": [
+        "garbage collection",
+        "life cycle madness"
+      ],
+      "resourceType": "book",
+      "title": "CLR via C#",
+      "author": "Jeffrey Richter",
+      "relevantSections": [
+        {
+          "sectionDescription": "threading",
+          "chapter":  "",
+          "page": ""
+
+        }
+      ]
+    }
+  ]
+}

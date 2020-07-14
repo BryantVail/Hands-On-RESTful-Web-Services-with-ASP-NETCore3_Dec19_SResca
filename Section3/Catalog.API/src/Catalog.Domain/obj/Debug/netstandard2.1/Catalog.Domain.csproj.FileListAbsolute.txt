@@ -1,0 +1,9 @@
+C:\Users\bvail\Documents\GitHub\Hands-On-RESTful-Web-Services-with-ASP-NETCore3_Dec19_SResca\Section3\Catalog.API\src\Catalog.Domain\bin\Debug\netstandard2.1\Catalog.Domain.deps.json
+C:\Users\bvail\Documents\GitHub\Hands-On-RESTful-Web-Services-with-ASP-NETCore3_Dec19_SResca\Section3\Catalog.API\src\Catalog.Domain\bin\Debug\netstandard2.1\Catalog.Domain.dll
+C:\Users\bvail\Documents\GitHub\Hands-On-RESTful-Web-Services-with-ASP-NETCore3_Dec19_SResca\Section3\Catalog.API\src\Catalog.Domain\bin\Debug\netstandard2.1\Catalog.Domain.pdb
+C:\Users\bvail\Documents\GitHub\Hands-On-RESTful-Web-Services-with-ASP-NETCore3_Dec19_SResca\Section3\Catalog.API\src\Catalog.Domain\obj\Debug\netstandard2.1\Catalog.Domain.csprojAssemblyReference.cache
+C:\Users\bvail\Documents\GitHub\Hands-On-RESTful-Web-Services-with-ASP-NETCore3_Dec19_SResca\Section3\Catalog.API\src\Catalog.Domain\obj\Debug\netstandard2.1\Catalog.Domain.csproj.CoreCompileInputs.cache
+C:\Users\bvail\Documents\GitHub\Hands-On-RESTful-Web-Services-with-ASP-NETCore3_Dec19_SResca\Section3\Catalog.API\src\Catalog.Domain\obj\Debug\netstandard2.1\Catalog.Domain.AssemblyInfoInputs.cache
+C:\Users\bvail\Documents\GitHub\Hands-On-RESTful-Web-Services-with-ASP-NETCore3_Dec19_SResca\Section3\Catalog.API\src\Catalog.Domain\obj\Debug\netstandard2.1\Catalog.Domain.AssemblyInfo.cs
+C:\Users\bvail\Documents\GitHub\Hands-On-RESTful-Web-Services-with-ASP-NETCore3_Dec19_SResca\Section3\Catalog.API\src\Catalog.Domain\obj\Debug\netstandard2.1\Catalog.Domain.dll
+C:\Users\bvail\Documents\GitHub\Hands-On-RESTful-Web-Services-with-ASP-NETCore3_Dec19_SResca\Section3\Catalog.API\src\Catalog.Domain\obj\Debug\netstandard2.1\Catalog.Domain.pdb

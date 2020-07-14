@@ -1,8 +1,15 @@
 {
   "ExpandedNodes": [
     "",
-    "\\example-scripts"
+    "\\ReadMe",
+    "\\Section2",
+    "\\Section2\\SampleAPI",
+    "\\Section2\\SampleAPI\\Controllers",
+    "\\Section2\\SampleAPI\\Middleware",
+    "\\Section2\\SampleAPI\\Models",
+    "\\Section2\\SampleAPI\\Properties",
+    "\\Section2\\SampleAPI\\Repositories"
   ],
-  "SelectedNode": "\\example-scripts\\fetch.js",
+  "SelectedNode": "\\Section2\\SampleAPI",
   "PreviewInSolutionExplorer": false
 }
